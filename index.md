@@ -1,6 +1,6 @@
 Ryan Parker Lee ryl004@ucsd.edu
 
-#D05 Haojian Jin
+D05 Haojian Jin
 
 What is the most interesting topic covered in your domain this quarter?
 ###### The most interesting topic covered in my domain so far is how we are going to directly structure our dashboard so that it is understandable and easily digestable to someone without electric grid knowledge as well as those with technical knowledge. 
